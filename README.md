@@ -23,5 +23,5 @@ This project allows users to view, navigate, and answer questions in an interact
 
 ---
 
-## 📂 Folder Structure
+
 
